@@ -1,7 +1,0 @@
-Min = input("Min: ")
-Mean = input("Mean: ")
-Max = input("Max: ")
-Median = input("Median: ")
-Mode = input("Mode: ")
-N = input("N: ")
-S = input("S: ")
